@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-I am a **Machine Learning Engineer** with a strong focus on building **end-to-end ML pipelines, Generative AI applications, and MLOps deployments**.  
+I am a **Data Scientist | ML Engineer | MLOps Enthusiast | GenAI Builder** with a strong focus on building **end-to-end ML pipelines, Generative AI applications, and MLOps deployments**.  
 I specialize in turning raw data into **production-grade, revenue-impacting AI systems**, with expertise spanning:  
 
 - ⚡ **MLOps & Deployment** → MLflow, DVC, Docker, FastAPI, AWS, CI/CD  
@@ -78,8 +78,8 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 
 ## 📊 GitHub Stats  
 
-![Arsalan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Arsalan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsalan3043&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan3043&layout=compact&theme=radical)  
 
 ---
 
