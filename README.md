@@ -36,7 +36,7 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 - Improved accuracy, minimized human errors, and **accelerated project approvals**.  
 - **Impact:** Increased team productivity and **directly lowered operational costs**.  
 
-🔗 [View Project]((https://github.com/Arsalan3043/RAG_pdf_analyser))  
+🔗 [View Project](https://github.com/Arsalan3043/RAG_pdf_analyser)  
 
 ---
 
@@ -47,7 +47,7 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 - Deployed to AWS for **real-time failure prediction**.  
 - **Impact:** Reduced unplanned downtime, improved asset utilization, and saved costs from breakdowns.  
 
-🔗 [View Project]([https://github.com/your-username/predictive-maintenance-mlops](https://github.com/Arsalan3043/RAG_pdf_analyser))  
+🔗 [View Project](https://github.com/Arsalan3043/Predictive-Maintenance-Capstone-proj)  
 
 ---
 
@@ -58,7 +58,7 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 - Trained multiple classifiers and optimized for **balanced precision & recall**.  
 - Modular structure prepared for **MLOps integration and deployment**.  
 
-🔗 [View Project]([https://github.com/your-username/vehicle-insurance-prediction](https://github.com/Arsalan3043/RAG_pdf_analyser))  
+🔗 [View Project](https://github.com/Arsalan3043/Vehicle-Insurance)  
 
 ---
 
