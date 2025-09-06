@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Arsalan Arshad  
+# 👋 Hi, I'm Md Arsalan Arshad  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-arsalan-arshad-b43ba7192/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/your-username)  
