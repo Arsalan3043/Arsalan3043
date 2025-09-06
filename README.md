@@ -1,10 +1,4 @@
-# 👋 Hi, I'm Md Arsalan Arshad  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-arsalan-arshad-b43ba7192/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/your-username)  
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)]()  
-[![MLOps](https://img.shields.io/badge/MLOps-Production--Ready-success?style=flat&logo=mlflow)]()  
-[![Generative AI](https://img.shields.io/badge/Generative%20AI-LangChain-orange?style=flat&logo=openai)]()  
+# 👋 Hi, I'm Md Arsalan Arshad     
 
 ---
 
@@ -20,6 +14,19 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 
 ---
 
+## ⚙️ Tech Stack & Tools  
+
+**Languages & Frameworks:**  
+`Python` · `Pandas` · `NumPy` · `scikit-learn` · `PyTorch` · `XGBoost` · `FastAPI`  
+
+**MLOps & Deployment:**  
+`MLflow` · `DVC` · `Docker` · `AWS` · `CI/CD Pipelines`  
+
+**Generative AI & Vector Databases:**  
+`LangChain` · `RAG` · `Chroma` · `Pinecone`   
+
+---
+
 ## 🏆 Highlight Projects  
 
 ### 1. 📑 Automated Material Submittal Review using AI  
@@ -29,7 +36,7 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 - Improved accuracy, minimized human errors, and **accelerated project approvals**.  
 - **Impact:** Increased team productivity and **directly lowered operational costs**.  
 
-🔗 [View Project](https://github.com/your-username/automated-submittal-review)  
+🔗 [View Project]((https://github.com/Arsalan3043/RAG_pdf_analyser))  
 
 ---
 
@@ -40,7 +47,7 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 - Deployed to AWS for **real-time failure prediction**.  
 - **Impact:** Reduced unplanned downtime, improved asset utilization, and saved costs from breakdowns.  
 
-🔗 [View Project](https://github.com/your-username/predictive-maintenance-mlops)  
+🔗 [View Project]([https://github.com/your-username/predictive-maintenance-mlops](https://github.com/Arsalan3043/RAG_pdf_analyser))  
 
 ---
 
@@ -51,7 +58,7 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 - Trained multiple classifiers and optimized for **balanced precision & recall**.  
 - Modular structure prepared for **MLOps integration and deployment**.  
 
-🔗 [View Project](https://github.com/your-username/vehicle-insurance-prediction)  
+🔗 [View Project]([https://github.com/your-username/vehicle-insurance-prediction](https://github.com/Arsalan3043/RAG_pdf_analyser))  
 
 ---
 
@@ -63,27 +70,7 @@ I specialize in turning raw data into **production-grade, revenue-impacting AI s
 
 ---
 
-## ⚙️ Tech Stack & Tools  
-
-**Languages & Frameworks:**  
-`Python` · `scikit-learn` · `PyTorch` · `XGBoost` · `FastAPI`  
-
-**MLOps & Deployment:**  
-`MLflow` · `DVC` · `Docker` · `AWS` · `CI/CD Pipelines`  
-
-**Generative AI & Vector Databases:**  
-`LangChain` · `RAG` · `Chroma` · `Pinecone` · `OpenAI API`  
-
----
-
-## 📊 GitHub Stats  
-
-![Arsalan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsalan3043&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan3043&layout=compact&theme=radical)  
-
----
-
 ## 🌟 Let's Connect  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mohammad-arsalan-arshad-b43ba7192/) for collaborations, opportunities, or knowledge-sharing.  
+📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-arsalan-arshad-b43ba7192/) for collaborations, opportunities, or knowledge-sharing.  
 
 ---
